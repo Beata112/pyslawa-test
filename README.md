@@ -1,6 +1,6 @@
 # pyslawa-test
 PT
-TAsk1
+Task1
 Subtask1
 7 pkt
 Subtask3 
