@@ -11,3 +11,7 @@ Subtask 4
 3. Interfejs jest estetyczny, ale sprawia na mnie wrażenie smutnego, bez energii. A przecież sport, gra w piłkę budzi w ludziach olbrzymie emocje. Pokombinowałabym z kolorami. Ten biały i niebieski to takie depresyjne, "szpitalne" barwy. Jesli chodzi o logo, to może warto byłoby poszukać czegoś bardziej nawiązującego do sportu lub piłki. Nie rozumiem, w jaki sposób odcisk palca, ma się łączyć z tym tematem. No chyba, że jest to odcisk palca jakiegoś słynnego piłkarza:-).
 4. Aplikacja wydaje mi się intuicyjna, jeśli chodzi o dodawanie nowego gracza.
 5. Jeśli chodzi o devtoolsy, to nie pokazują mi one żadnych błędów.![obraz](https://user-images.githubusercontent.com/122923764/213015402-3884fb73-e1de-4508-936e-8b2f3803c4ab.png)
+
+
+Task 3
+https://docs.google.com/document/d/1AheJJ0ihnxq2By4u6zF8au2IvofsPDSfs-kYAzGNGcU/edit?usp=sharing
