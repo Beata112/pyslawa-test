@@ -15,3 +15,13 @@ Subtask 4
 
 Task 3
 https://docs.google.com/document/d/1AheJJ0ihnxq2By4u6zF8au2IvofsPDSfs-kYAzGNGcU/edit?usp=sharing
+
+Task 4
+Subtask 1
+Subtask 2
+Subtask 3
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? Celem aplikacji jest zarabianie pieniędzy poprzez pobieranie opłat od użytkowników. Aplikacja pobiera również dane użytkowników. Służy ona do poprawy dobrostanu psychicznego poprzez relaksację, medytację, redukcję stresu.
+2. Kto ma być użytkownikiem końcowym aplikacji? 
+3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, 5. takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
