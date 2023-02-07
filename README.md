@@ -11,17 +11,13 @@ Subtask 4
 3. Interfejs jest estetyczny, ale sprawia na mnie wrażenie smutnego, bez energii. A przecież sport, gra w piłkę budzi w ludziach olbrzymie emocje. Pokombinowałabym z kolorami. Ten biały i niebieski to takie depresyjne, "szpitalne" barwy. Jesli chodzi o logo, to może warto byłoby poszukać czegoś bardziej nawiązującego do sportu lub piłki. Nie rozumiem, w jaki sposób odcisk palca, ma się łączyć z tym tematem. No chyba, że jest to odcisk palca jakiegoś słynnego piłkarza:-).
 4. Aplikacja wydaje mi się intuicyjna, jeśli chodzi o dodawanie nowego gracza.
 5. Jeśli chodzi o devtoolsy, to nie pokazują mi one żadnych błędów.![obraz](https://user-images.githubusercontent.com/122923764/213015402-3884fb73-e1de-4508-936e-8b2f3803c4ab.png)
-
-
 Task 3
 https://docs.google.com/document/d/1AheJJ0ihnxq2By4u6zF8au2IvofsPDSfs-kYAzGNGcU/edit?usp=sharing
-
 Task 4
-Subtask 1
-Subtask 2
+Subtask 1 i 2: https://docs.google.com/document/d/1_qq9xA3eZdU2f_etYi7xWnSZsCKCNYx_xoJSY1yv2V4/edit?usp=sharing
 Subtask 3
-1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? Celem aplikacji jest zarabianie pieniędzy poprzez pobieranie opłat od użytkowników. Aplikacja pobiera również dane użytkowników. Służy ona do poprawy dobrostanu psychicznego poprzez relaksację, medytację, redukcję stresu.
-2. Kto ma być użytkownikiem końcowym aplikacji? 
-3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
-4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, 5. takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
-5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji? Celem aplikacji jest zarabianie pieniędzy poprzez pobieranie opłat od użytkowników. Aplikacja pobiera również dane użytkowników. Służy ona do poprawy dobrostanu psychicznego poprzez relaksację, medytację, mindfulness, redukcję stresu.
+2. Kto ma być użytkownikiem końcowym aplikacji? Użytkownikiem końcowym, mają być użytkownicy aplikacji. Osoby, które chcą poprawić swoje samopoczucie psychiczne.
+3. Czy według Ciebie aplikacja jest user friendly? Według mnie, aplikacja jest przyjazna dla użytkownika. Jest intuicyjna oraz ładna graficznie.
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? Dodałabym funkcję zapisania, aby odtworzyć dane nagranie później. Pomyślałabym również nad tym, by zamieścić w tej aplikacji nagranie Treningu autogennego Schultza. Jako użytkowniczka oczekiwałabym, aby w opisie poszczególnych autorów, pojawiły się dokładniejsze informacje na temat wykształcenia autorów oraz ich kompetencji.
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? Niestety za słabo się na tym znam, żeby dostrzec różnice.
