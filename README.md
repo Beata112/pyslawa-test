@@ -34,4 +34,3 @@ SELECT  title, price
 FROM movies
 WHERE price< 7;
 5.
-3.
