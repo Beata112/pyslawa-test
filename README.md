@@ -21,4 +21,17 @@ Subtask 3
 3. Czy według Ciebie aplikacja jest user friendly? Według mnie, aplikacja jest przyjazna dla użytkownika. Jest intuicyjna oraz ładna graficznie.
 4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? Dodałabym funkcję zapisania, aby odtworzyć dane nagranie później. Pomyślałabym również nad tym, by zamieścić w tej aplikacji nagranie Treningu autogennego Schultza. Jako użytkowniczka oczekiwałabym, aby w opisie poszczególnych autorów, pojawiły się dokładniejsze informacje na temat wykształcenia autorów oraz ich kompetencji.
 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? Niestety za słabo się na tym znam, żeby dostrzec różnice.
-Task 5
+
+TASK 5
+1.
+SELECT * FROM `actors` ORDER BY surname ASC; 
+2.
+SELECT * FROM `movies`WHERE year_of_production=2019;
+3.
+SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999;
+4.
+SELECT  title, price
+FROM movies
+WHERE price< 7;
+5.
+3.
