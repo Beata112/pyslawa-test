@@ -3,13 +3,16 @@ PT
 
 TASK 1
 
+
 Subtask1
 
 7 pkt
 
+
 Subtask3 
 
 Cześć, nazywam się Beata. Wzięłam udział w projekcie, bo chcę starać się o pracę testera. Szukam dla siebie możliwości pracy w branży IT. Posiadam cechy przydatne w  pracy testera. Jestem komunikatywna i umiem w relacje. Potrafię wyrażać moje myśli w mowie i piśmie. Umiem być zdecydowana i konkretna. Posiadam zmysł krytycznego i analitycznego myślenia. Jestem też dokładna.
+
 
 Subtask 4
 
@@ -25,9 +28,11 @@ TASK 3
 https://docs.google.com/document/d/1AheJJ0ihnxq2By4u6zF8au2IvofsPDSfs-kYAzGNGcU/edit?usp=sharing
 
 
+
 TASK 4
 
 Subtask 1 i 2: https://docs.google.com/document/d/1_qq9xA3eZdU2f_etYi7xWnSZsCKCNYx_xoJSY1yv2V4/edit?usp=sharing
+
 
 Subtask 3
 
@@ -89,3 +94,6 @@ WHERE email IN (0);
 SELECT  movie_id, title, year_of_production, price
 FROM movies
 WHERE price > 9 and movie_id BETWEEN 2 AND 8;
+
+
+TASK 6
