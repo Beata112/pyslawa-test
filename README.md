@@ -98,3 +98,10 @@ WHERE price > 9 and movie_id BETWEEN 2 AND 8;
 
 TASK 6
 
+11.
+
+select customer_id, name, surname, replace(surname,'Muler','Miler') 
+from customers;
+![obraz](https://user-images.githubusercontent.com/122923764/220191338-ba829776-609d-47ab-a81d-a93f774b9021.png)
+
+12.
