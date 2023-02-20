@@ -67,3 +67,9 @@ WHERE name like 'An%';
 SELECT customer_id, name, surname, email
 FROM customers
 WHERE email IN (0);
+
+10.
+
+SELECT  movie_id, title, year_of_production, price
+FROM movies
+WHERE price > 9 and movie_id BETWEEN 2 AND 8;
