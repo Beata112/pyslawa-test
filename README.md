@@ -102,6 +102,8 @@ TASK 6
 
 select customer_id, name, surname, replace(surname,'Muler','Miler') 
 from customers;
-![obraz](https://user-images.githubusercontent.com/122923764/220191338-ba829776-609d-47ab-a81d-a93f774b9021.png)
+
+![obraz](https://user-images.githubusercontent.com/122923764/220191720-f807a2aa-a1f2-4c14-8948-452baef9b4f0.png)
+
 
 12.
