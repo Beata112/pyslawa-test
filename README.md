@@ -87,7 +87,7 @@ WHERE name like 'An%';
 
 SELECT customer_id, name, surname, email
 FROM customers
-WHERE email IN (0);
+WHERE email is null;
 
 10.
 
@@ -97,3 +97,4 @@ WHERE price > 9 and movie_id BETWEEN 2 AND 8;
 
 
 TASK 6
+
