@@ -23,14 +23,47 @@ Subtask 3
 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej? Niestety za słabo się na tym znam, żeby dostrzec różnice.
 
 TASK 5
+
 1.
 SELECT * FROM `actors` ORDER BY surname ASC; 
+
 2.
 SELECT * FROM `movies`WHERE year_of_production=2019;
+
 3.
 SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999;
+
 4.
 SELECT  title, price
 FROM movies
 WHERE price< 7;
+
 5.
+
+SELECT  actor_id, name, surname
+FROM actors
+WHERE actor_id > 3 and actor_id < 8;
+
+6.
+
+SELECT customer_id, name, surname, email
+FROM customers
+WHERE customer_id = 2 or customer_id = 4 or customer_id = 6;
+
+7.
+
+SELECT customer_id, name, surname, email
+FROM customers
+WHERE customer_id IN (1, 3, 5);
+
+8.
+
+SELECT actor_id, name, surname
+FROM actors
+WHERE name like 'An%';
+
+9.
+
+SELECT customer_id, name, surname, email
+FROM customers
+WHERE email IN (0);
