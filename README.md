@@ -97,6 +97,7 @@ WHERE price > 9 and movie_id BETWEEN 2 AND 8;
 
 
 TASK 6
+SUBTASK 1
 
 11.
 
@@ -107,3 +108,7 @@ from customers;
 
 
 12.
+SUBTASK 2
+
+
+SUBTASK 3
