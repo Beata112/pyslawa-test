@@ -211,6 +211,7 @@ INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES ('7'
 
 
 SUBTASK 2
+![2023-02-21_16h25_44](https://user-images.githubusercontent.com/122923764/220463816-a1f22dc5-53cf-46dd-a9e0-ebfdd053a1d4.png)
 
 
 SUBTASK 3
