@@ -112,6 +112,9 @@ SELECT customer_id, name, surname, email
 FROM customers
 WHERE email is null;
 
+![image](https://user-images.githubusercontent.com/122923764/220462853-76798ba7-cc77-4f0a-9e2b-a5f505ae21b0.png)
+
+
 
 
 10.
