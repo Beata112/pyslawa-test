@@ -97,6 +97,7 @@ WHERE price > 9 and movie_id BETWEEN 2 AND 8;
 
 
 TASK 6
+
 SUBTASK 1
 
 11.
@@ -106,8 +107,62 @@ from customers;
 
 ![obraz](https://user-images.githubusercontent.com/122923764/220191720-f807a2aa-a1f2-4c14-8948-452baef9b4f0.png)
 
+12
+SELECT name, email, movie_id FROM customers INNER JOIN sale ON customers.customer_id = sale.customer_id WHERE sale_date = '2021-04-13';
+![image](https://user-images.githubusercontent.com/122923764/220458759-81b5fc0d-c015-49dc-b387-3686eb2e7659.png)
 
-12.
+13.
+DELETE FROM customers
+WHERE customer_id = 4;
+INSERT INTO customers (customer_id, name, surname, email) VALUES ('4', 'Patrycja', 'Komor', 'pati@mail.com');
+SELECT *
+FROM customers
+ORDER BY customer_id ASC;
+![image](https://user-images.githubusercontent.com/122923764/220458996-4751431d-bf80-4cf5-adc8-9130d75cebad.png)
+
+ 
+14.
+SELECT name, surname, title FROM customers INNER JOIN movies ON customers.customer_id = movies.movie_id WHERE year_of_production BETWEEN '1979' AND '2020';
+![image](https://user-images.githubusercontent.com/122923764/220459096-89002b71-0b8c-4a25-a286-38d11b3ee2f8.png)
+
+
+15.
+ALTER TABLE customers ADD COLUMN pseudonym DECIMAL(11,2) NOT NULL;
+SELECT CONCAT(LEFT(surname,2), LEFT(name,1)) AS "pseudonym" FROM customers;
+![image](https://user-images.githubusercontent.com/122923764/220459195-28cbff16-106c-45b3-b182-43c66c747d15.png)
+
+ 
+16.
+SELECT DISTINCT title FROM movies;
+![image](https://user-images.githubusercontent.com/122923764/220459278-c1aff63f-a0b1-4041-862d-634e7fad3119.png)
+
+ 
+17.
+select customer_id, name, surname FROM customers UNION Select actor_id, name, surname from actors order by customer_id asc;
+ ![image](https://user-images.githubusercontent.com/122923764/220459341-89b4f886-bb94-421f-a91b-4fc307792afa.png)
+
+
+
+18.
+. SELECT *, price+2.5 AS NewPrice2 FROM movies WHERE year_of_production > 2000;
+![image](https://user-images.githubusercontent.com/122923764/220459422-2f3ef497-10a6-4be6-bf36-cc52beff2e76.png)
+
+ 
+
+19.
+select actor_id, name, surname, movie_id, title 
+FROM actors, movies
+WHERE actor_id = 4 and movie_id = 4;
+
+![image](https://user-images.githubusercontent.com/122923764/220459531-15a932a4-1058-456e-a150-e18c78f52384.png)
+
+ 
+20.
+INSERT INTO customers (customer_id, name, surname, email, pseudonym) VALUES ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+
+![image](https://user-images.githubusercontent.com/122923764/220459629-2bd14d8f-737f-4baf-ac57-56f8d71e73dc.png)
+
+
 SUBTASK 2
 
 
