@@ -48,16 +48,27 @@ TASK 5
 1.
 SELECT * FROM `actors` ORDER BY surname ASC; 
 
+![image](https://user-images.githubusercontent.com/122923764/220460222-3269c026-20dd-434b-ba32-494d331585b4.png)
+
+
 2.
 SELECT * FROM `movies`WHERE year_of_production=2019;
 
+![image](https://user-images.githubusercontent.com/122923764/220460363-5762a4af-d8f3-400d-b77c-eb47cca3efba.png)
+
+
 3.
 SELECT * FROM `movies` WHERE year_of_production BETWEEN 1900 AND 1999;
+
+![image](https://user-images.githubusercontent.com/122923764/220460479-a3d350ec-e715-404e-ac80-90001f529840.png)
+
 
 4.
 SELECT  title, price
 FROM movies
 WHERE price< 7;
+
+![image](https://user-images.githubusercontent.com/122923764/220460637-30e68964-ca67-457e-abb4-55345eeb5f9a.png)
 
 5.
 
@@ -65,11 +76,17 @@ SELECT  actor_id, name, surname
 FROM actors
 WHERE actor_id > 3 and actor_id < 8;
 
+![image](https://user-images.githubusercontent.com/122923764/220460791-cdb13f33-d2ba-4149-944f-ae88e0228aad.png)
+
+
 6.
 
 SELECT customer_id, name, surname, email
 FROM customers
 WHERE customer_id = 2 or customer_id = 4 or customer_id = 6;
+
+![image](https://user-images.githubusercontent.com/122923764/220460921-178f62b5-7e61-4703-b103-9c97eb1e4f5f.png)
+
 
 7.
 
@@ -77,11 +94,17 @@ SELECT customer_id, name, surname, email
 FROM customers
 WHERE customer_id IN (1, 3, 5);
 
+![image](https://user-images.githubusercontent.com/122923764/220461042-b3bbe7b4-2a83-43d4-bb04-21d7aadd0800.png)
+
+
 8.
 
 SELECT actor_id, name, surname
 FROM actors
 WHERE name like 'An%';
+
+![image](https://user-images.githubusercontent.com/122923764/220461142-f89b5ddf-40c9-4f0d-bae6-935f58327e26.png)
+
 
 9.
 
@@ -89,11 +112,15 @@ SELECT customer_id, name, surname, email
 FROM customers
 WHERE email is null;
 
+
+
 10.
 
 SELECT  movie_id, title, year_of_production, price
 FROM movies
 WHERE price > 9 and movie_id BETWEEN 2 AND 8;
+
+![image](https://user-images.githubusercontent.com/122923764/220461978-cbad443d-5a4c-40cd-9b1a-a59ad1535645.png)
 
 
 TASK 6
@@ -144,7 +171,7 @@ select customer_id, name, surname FROM customers UNION Select actor_id, name, su
 
 
 18.
-. SELECT *, price+2.5 AS NewPrice2 FROM movies WHERE year_of_production > 2000;
+SELECT *, price+2.5 AS NewPrice2 FROM movies WHERE year_of_production > 2000;
 ![image](https://user-images.githubusercontent.com/122923764/220459422-2f3ef497-10a6-4be6-bf36-cc52beff2e76.png)
 
  
